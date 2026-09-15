@@ -1,0 +1,9 @@
+com\jobapp\reviewms\review\ReviewController.class
+com\jobapp\reviewms\ReviewmsApplication.class
+com\jobapp\reviewms\review\ReviewService.class
+com\jobapp\reviewms\review\dto\ReviewMessage.class
+com\jobapp\reviewms\review\Review.class
+com\jobapp\reviewms\review\messaging\RabbitMQConfiguration.class
+com\jobapp\reviewms\review\ReviewRepository.class
+com\jobapp\reviewms\review\Impl\ReviewServiceImpl.class
+com\jobapp\reviewms\review\messaging\ReviewMessageProducer.class

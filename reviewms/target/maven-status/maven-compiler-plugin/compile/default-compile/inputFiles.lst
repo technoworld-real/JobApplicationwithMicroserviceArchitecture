@@ -1,0 +1,9 @@
+D:\myprojects\jobmicroservice\reviewms\src\main\java\com\jobapp\reviewms\review\dto\ReviewMessage.java
+D:\myprojects\jobmicroservice\reviewms\src\main\java\com\jobapp\reviewms\review\Impl\ReviewServiceImpl.java
+D:\myprojects\jobmicroservice\reviewms\src\main\java\com\jobapp\reviewms\review\messaging\RabbitMQConfiguration.java
+D:\myprojects\jobmicroservice\reviewms\src\main\java\com\jobapp\reviewms\review\messaging\ReviewMessageProducer.java
+D:\myprojects\jobmicroservice\reviewms\src\main\java\com\jobapp\reviewms\review\Review.java
+D:\myprojects\jobmicroservice\reviewms\src\main\java\com\jobapp\reviewms\review\ReviewController.java
+D:\myprojects\jobmicroservice\reviewms\src\main\java\com\jobapp\reviewms\review\ReviewRepository.java
+D:\myprojects\jobmicroservice\reviewms\src\main\java\com\jobapp\reviewms\review\ReviewService.java
+D:\myprojects\jobmicroservice\reviewms\src\main\java\com\jobapp\reviewms\ReviewmsApplication.java
